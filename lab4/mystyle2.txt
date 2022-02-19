@@ -1,0 +1,15 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+#main_header{
+font-size: 200px
+}
+
+#main_section{
+}
+
+#main_footer{
+font-size : 20px
+}
