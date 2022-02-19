@@ -1,0 +1,10 @@
+<html>
+<head>
+<frameset cols = "550, *">
+<frame src = "Left.html">
+<frame src = "Right.html">
+</frameset>
+</head>
+<body>
+</body>
+</html>

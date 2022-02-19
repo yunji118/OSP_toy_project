@@ -1,0 +1,35 @@
+<html>
+<head>
+<h1><p style="font-size:100%"><p style="font-family:궁서">간단한 김치볶음밥 만들기</p></p></h1>
+</head>
+
+<body>
+<p><p align = "right"><b>이름: 하윤지, 학번: 2071051</b></p>
+<p align = "left">
+<p><h2><p style="font-size:100%"><p style="background-color:lightblue">준비물</p></p></h2>
+<ul>
+<li><p style = "color:red">배추김치</p></li>
+<li>밥 1공기</li>
+<li>식용유 1.5큰 술</li>
+<li>대파 다진 것 3 큰 술</li>
+<li>까나리액젓 0.5큰 술</li>
+<li>설탕 0.7 큰 술</li>
+<li>조미김 1봉지</li>
+</ul>
+<p><h2><p style="font-size:100%"><p style="background-color:lightblue">만드는 순서</p></p></h2>
+<ol>
+<li>다진 대파를 기름 두르고 볶기</li>
+<li>까나리액젓 0.5 큰 술과 설탕 0.7 큰 술 넣기</li>
+<li>김치 넣고 약불에 볶기</li>
+<li>밥 넣고 볶기</li>
+<li>김치볶음밥 위에 조미김 잘라서 넣기</li>
+</ol>
+<p><h3><p style="font-size:100%"><mark>완성!</mark></p></h3>
+<u>달걀 프라이와 함께 먹으면 더 맛있어요</u>
+<br>
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20210611_149%2F1623402905736LO1Ra_JPEG%2F24538739547947425_915206147.jpg&type=sc960_832" width="300" height="300" align="left">
+<marquee direction="right"><b>맛있게 드세요:)</b></marquee>
+
+</p>
+</body>
+</html>

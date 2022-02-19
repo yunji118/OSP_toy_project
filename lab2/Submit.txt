@@ -1,0 +1,7 @@
+<html>
+<head>
+</head>
+<body>
+암호를 전달받았습니다.
+</body>
+</html>
