@@ -1,1 +1,1 @@
-# my_first_project
+# OSP_toy_project
